@@ -1,0 +1,25 @@
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.barulic.apptest"
+        versionCode = "10" 
+        version     = "1.0.0" >
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>apptest</name>
+
+    <description>
+        App Test
+    </description>
+
+    <author>
+        Mark Barulic
+    </author>
+
+    <gap:platform name="ios" />
+
+    <icon src="icon.png" />
+
+    <gap:splash src="splash.png" />
+
+</widget>
